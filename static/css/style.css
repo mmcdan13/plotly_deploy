@@ -37,3 +37,17 @@ text-align: center;
     background-color: #04AA6D;
     color: white;
   }
+
+/*Adding space between charts */
+#bar {
+  margin: 150px;
+  }
+
+#gauge {
+  margin: 150px;
+}
+
+#bubble {
+  margin: 150px;
+}
+
